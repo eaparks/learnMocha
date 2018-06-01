@@ -1,0 +1,26 @@
+{
+  "name": "learn-mocha",
+  "version": "1.0.0",
+  "description": "Running thru tutorial at codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaparks/learnMocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "test"
+  ],
+  "author": "Ed Parks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaparks/learnMocha/issues"
+  },
+  "homepage": "https://github.com/eaparks/learnMocha#readme"
+}
